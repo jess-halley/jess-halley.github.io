@@ -1,5 +1,5 @@
 body {
-  background-image: url("images/pattern.jpg");
+  background-image: url("images/stripes.png");
   background-attachment: fixed;
   padding-left: 100px;
   padding-right: 100px;
@@ -12,4 +12,20 @@ h1 {
 
 h2 {
   text-align: center;
+  font-family: Courier;
+	color: grey;
+	font-size:20px;
+}
+
+p {
+  text-align: center;
+  font-family: Courier;
+	color: grey;
+	font-size:20px;
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
