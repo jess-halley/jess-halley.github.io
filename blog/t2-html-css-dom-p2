@@ -1,0 +1,35 @@
+<html>
+<head>
+  <title> Grid Based Design </title>
+  <meta charset="UTF-8">
+  <link href="../styles/styles.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+  <div>
+    <h1> Grid Based Design </h1>
+    <h2>Whā</h2>
+    <h3>3 March 2017</h3
+  </div>
+
+  <div>
+    <p>
+      <h2>What is grid based design?</h2>
+      Grid based design a methodology utilises a grid structure to break up, section and organise web page content. This design is effective because all elements on a page are boxed.
+    </p>
+  </div>
+
+  <div>
+    <p>
+      <h2>What is all the hype about responsive web pages?</h2>
+      Responsive web pages are a crucial to well-designed websites. The various interfaces we utilise to access the internet continue to change. Screen resolutions are increasing and more people access the internet is now more frequently accessed through mobile phone technology.
+      This means that screen sizes can vary dramatically and consequently, that the standard page design of 1024 x 768 monitor is no longer appropriate.  Practising responsive design is a way of ensuring that sites can dynamically adjust according to screen size or device type.
+    </p>
+  </div>
+
+  <div>
+    <p>
+      <h2>What is semantic structure?/h2>
+Semantic structure is a way of organising HTML code so that it is easily read and followed by humans as well as computers.  For instance, IMG is a semantic tag is easily recognised by English speakers to mean image, yet it is also interpreted by the browser. 
+     </p>
+  </div>
