@@ -1,0 +1,17 @@
+
+#header {
+  background-image: url(./images/urban.jpg);
+  height: 500px;
+  background-repeat:no-repeat;
+}
+
+#column1 {
+  background-color: #161616;
+
+}
+
+p {
+  text-align: center;
+  font-family: Courier;
+	color: #dee0e2;
+	font-size:20px;
