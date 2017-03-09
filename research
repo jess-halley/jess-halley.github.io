@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Research</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.css">
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.css">
+  <link href="../styles/styles.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+  <div class= "container">
+		<div class="row blackground">
+		<div id = "topbanner" class= "twelve columns">
+      <h2> Silicon Welly. <h2>
+      </div>
+
+      </div>
+      <div class= "four columns offset-by-four">
+        <class= "center">
+        <p> Silicon Welly: Tracing the social networks and economic forces spurring innovation across Wellington’s technology sector.
+ </p>
+  <p>My doctoral research is focused on exploring the methods by which cloud-based software technology products are created and sold. Additionally, I am interested in exploring the inner productions and workings of code, but to do this, I need to learn how to code first. </p>
+  <p>Whilst much social science research has explored human/user relationships with technology, little research has focused on the experience of creating, developing and producing this technology first hand.  Even less research is focused on this process from within a New Zealand context.</p>
+  <p>This study is being done to learn more Wellington’s growing technology industry. Since 2006 a diverse range of technology start-ups, including Psoda, Xero, ShowGizmo, and Trademe have each established themselves in Wellington. Taking note of this growth this research project aims to explore the social networks, and economic forces at play, that shape the software industry in Wellington.</p>
+  <p>If you have any questions, thoughts or advice from me about this research project I would love to hear from you.
+</p>
+</div>
+</div>
