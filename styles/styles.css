@@ -1,13 +1,43 @@
 
 #header {
   background-image: url(./images/urban.jpg);
-  height: 500px;
+  height: 400px;
   background-repeat:no-repeat;
 }
 
-#column1 {
+#topbanner {
   background-color: #161616;
 
+}
+
+#portfolio{
+  background-color: #161616;
+
+}
+
+body{
+  background-color: #161616;
+}
+
+.blackground {
+  background-color: #161616;
+
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+
+
+h1 {
+    color: white;
+    text-align: left;;
+    padding-left: 10px;
+    padding-top: 330px;
+    font-family: HelloStockholm;
+    font-style: italic;
 }
 
 p {
@@ -15,3 +45,8 @@ p {
   font-family: Courier;
 	color: #dee0e2;
 	font-size:20px;
+}
+
+.underline{
+  text-decoration: underline;
+}
