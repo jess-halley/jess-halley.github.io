@@ -12,6 +12,13 @@
 
 }
 
+#banner {
+  background-image: url(./images/wellington.jpg);
+  height: 400px;
+  background-repeat:no-repeat;
+
+}
+
 
 body {
   background-color: #161616;
