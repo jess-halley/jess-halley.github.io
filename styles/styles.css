@@ -6,29 +6,16 @@
 }
 
 #topbanner {
-  background-color: #161616;
+  background-image: url(../styles/images/writer.jpg);
+  height: 400px;
+  background-repeat:no-repeat;
 
 }
 
-#portfolio{
-  background-color: #161616;
 
-}
-
-body{
+body {
   background-color: #161616;
 }
-
-.blackground {
-  background-color: #161616;
-
-}
-
-a{
-  text-decoration: none;
-  color: white;
-}
-
 
 
 h1 {
@@ -47,6 +34,23 @@ p {
 	font-size:20px;
 }
 
+h2 {
+    color: black;
+    text-align: left;;
+    padding-left: 10px;
+    padding-top: 330px;
+    font-family: Courier;
+    font-style: italic;
+    font-size: 20px;
+
+}
+
+
 .underline{
   text-decoration: underline;
+}
+
+.blackground {
+  background-color: #161616;
+
 }
